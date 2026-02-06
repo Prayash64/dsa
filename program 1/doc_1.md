@@ -20,7 +20,7 @@ This program checks whether a given mathematical expression has balanced parenth
 - If free space is available, the bracket is added and `top` is increased.
 - This function is called whenever an opening bracket is found in the expression.
 
-```
+
 
 ### 2. `pop()`
 - This function removes and returns the top element from the stack.
@@ -30,7 +30,7 @@ This program checks whether a given mathematical expression has balanced parenth
 - Closing bracket is just for checking.
 
 
-```
+
 ### 3. `balance(char exp[])`
 - This is the main logic function to check balanced parentheses.
 - It scans the input expression one character at a time using a loop equal to the length of the expression.
