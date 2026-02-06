@@ -125,4 +125,14 @@ int main(){
 ```
 Note: This version uses scanf("%s", expr); so the input should not contain spaces.
 
+## Output 
+
+<img width="1449" height="197" alt="Image" src="https://github.com/Prayash64/dsa_assignment/blob/main/output/1a%20.jpg?raw=true />
+
+Sample 2 
+<img width="1449" height="197" alt="Image" src= "https://github.com/Prayash64/dsa_assignment/blob/main/output/1b%20.jpg?raw=true />
+
+Sample 3 
+<img width="1449" height="197" alt="Image" src= "https://github.com/Prayash64/dsa_assignment/blob/main/output/1c%20.jpg?raw=true />
+
 
