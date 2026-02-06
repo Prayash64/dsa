@@ -79,3 +79,4 @@ The `main()` function serves as the driver for the application. Its organization
 Enter infix expression: (3+2)*5
 Postfix expression: 32+5*
 Evaluated result: 25
+![Output](https://github.com/Prayash64/dsa_assignment/blob/main/output/2.jpg?raw=true)
