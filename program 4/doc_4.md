@@ -68,7 +68,7 @@ The `main()` function serves as the test driver for the implementation:
 
 ## 📸 Expected Output
 
-![Output](https://github.com/Prayash64/dsa_assignment/blob/main/output/3.jpg?raw=true)
+![Output](https://github.com/Prayash64/dsa_assignment/blob/main/output/4.jpg?raw=true)
 
 ```text
 Original Doubly Linked List:
