@@ -71,6 +71,8 @@ The `main()` function serves as a driver to demonstrate the functionality:
 
 ## 📸 Expected Output
 
+![Output](https://github.com/Prayash64/dsa_assignment/blob/main/output/5.jpg?raw=true)
+
 ```text
 === Undirected Graph Implementation ===
 Creating graph with 5 vertices (0 to 4)
