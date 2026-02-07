@@ -60,6 +60,7 @@ The `main()` function handles the setup and execution:
         ```
 
 ## 📸 Expected Output
+![Output](https://github.com/Prayash64/dsa_assignment/blob/main/output/3.jpg?raw=true)
 
 ```text
 Reverse Traversal of Linked List: 30 20 10
